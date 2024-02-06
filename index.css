@@ -1,0 +1,28 @@
+.inp input
+{
+    width:230px;
+    height: 50px;
+    outline: none;
+}
+body
+{
+    color: white;
+    background-color: black;
+}
+button
+{
+    background-color: red;
+}
+.main
+{
+margin: auto;
+}
+.kok
+{
+    display: flex;
+}
+.main1
+{
+    margin: auto;
+    
+}
